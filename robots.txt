@@ -1,1 +1,1 @@
-Sitemap: https://greenelab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://sradam00.github.io/russell-lab.github.io/sitemap.xml
