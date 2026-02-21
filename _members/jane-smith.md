@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
+name: Dr. Stewart Russell
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Wilfrid Laurier University
 aliases:
   - J. Smith
   - J Smith
