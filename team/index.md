@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a dedicated group of bioinformaticians. 
+"We are a dedicated group of bioinformaticians." 
 
 {% include section.html %}
 
