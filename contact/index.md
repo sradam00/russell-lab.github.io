@@ -20,7 +20,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
+  text="phone number?"
   link="+1-555-867-5309"
 %}
 {%
